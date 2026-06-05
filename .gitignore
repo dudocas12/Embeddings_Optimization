@@ -2,3 +2,5 @@
 .env
 data/
 text8-zip.zip
+raw/
+preprocessed/
